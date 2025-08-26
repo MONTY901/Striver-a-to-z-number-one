@@ -1,0 +1,6 @@
+class Solution {
+    static void printIntString(String S, int N) {
+        System.out.println(S);
+        System.out.println(N);
+    }
+}
