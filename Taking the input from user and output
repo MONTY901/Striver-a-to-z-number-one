@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+class Solution {
+    static void printIntString() {
+        Scanner scn = new Scanner(System.in);
+        System.out.println("Enter string and input number:");
+
+        String s = scn.nextLine();
+        int x = scn.nextInt();
+
+        System.out.println(s);
+        System.out.println(x);
+
+        scn.close();
+    }
+}
