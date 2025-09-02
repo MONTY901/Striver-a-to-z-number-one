@@ -8,6 +8,6 @@ public class FactorialCalculator {
             n--;
         }
 
-        System.out.println("Factorial of 10 is: " + factorial);
+        System.out.println("Factorial of 15 is: " + factorial);
     }
 }
